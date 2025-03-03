@@ -16,5 +16,5 @@ This repository contains my solution to the Incubyte TDD Assessment. The project
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/incubyte-tdd-assessment.git
+   git clone https://github.com/spdev398/incubyte-tdd-assessment
    cd incubyte-tdd-assessment
